@@ -1,0 +1,35 @@
+{
+    "name": "linkIt",
+    "title": "linkIt jQuery Plugin",
+    "description": "jQuery plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "convert",
+        "html"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Isaac Posey",
+        "url": "https://bethel.com"
+    },
+    "maintainers": [
+        {
+            "name": "Isaac Posey",
+            "email": "isaac.posey@bethel.com",
+            "url": "https://bethel.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "./LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/jquery/jquery-color/issues",
+    "homepage": "https://github.com/jquery/jquery-color",
+    "docs": "https://github.com/jquery/jquery-color",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
